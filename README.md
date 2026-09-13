@@ -14,7 +14,7 @@
 - Member 2: [Manav Kadyan] - [Cochin university of science and technology]
 
 ### Project Description
-[]
+[our project is simply follows the theme of the hackathon , like it is about taking permissions from ministry before doing pointless things and we have to provide details to this web and it will give us the approval certificate from the ministry that allow us to doing these things ...]
 
 ### The Problem (that doesn't exist)
 [useless ask - we have to ask from ministry before doing ]
