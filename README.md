@@ -58,7 +58,7 @@ visit the live website: https://manav610.github.io/Manav/
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+[https://youtu.be/CMb11iTfvUc]
 *Explain what the video demonstrates*
 
 
