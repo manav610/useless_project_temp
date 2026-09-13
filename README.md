@@ -69,7 +69,7 @@ For Software:
 
 ## Team Contributions
 - [Shashi Prakash]: [Uplodation , presenting and editing]
-- [Manav Kadyan]: [web and prompt creation  ]
+- [Manav Kadyan]: [Idea and Development, AI Assisted Coding, Website creation, PPT Preparation, Code testing, UI Designing, Quality Checking, Content Development]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
