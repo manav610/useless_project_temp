@@ -25,10 +25,9 @@
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [java]
-- [Frameworks used]
-- [Libraries used]
-- [vs code , chat gpt]
+- [java programming language]
+- [Java standard library used]
+- [vs code for coding]
 
 ### Implementation
 For Software: This project is built using HTML, CSS, and JavaScript.
