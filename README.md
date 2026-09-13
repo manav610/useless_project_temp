@@ -54,8 +54,9 @@ For Software:
 *This will show the names of peoples who dared to ask for this certification *
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+!<img width="1600" height="579" alt="workflow" src="https://github.com/user-attachments/assets/6a05cfa3-6cf1-423e-a51c-1b3006ddee68" />
+
+*When the web is opened , first take applicants details ,then submit for approval, then approval granted and then approval certificate publish on screen ...*
 
 
 ### Project Demo
