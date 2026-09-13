@@ -48,7 +48,9 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+!<img width="1600" height="940" alt="SCREENSHOT 1 - Copy" src="https://github.com/user-attachments/assets/73ca5b2a-88cd-4668-a887-daf256c34142" />
+"First page with titles and takes the applicant details"
+
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
