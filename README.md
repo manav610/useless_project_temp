@@ -31,12 +31,12 @@ For Software:
 - [vs code , chat gpt]
 
 ### Implementation
-For Software:
+For Software: This project is built using HTML, CSS, and JavaScript.
 # Installation
 [https://manav610.github.io/Manav./]
 
 # Run
-[commands]
+visit the live website: https://manav610.github.io/Manav/
 
 ### Project Documentation
 For Software:
