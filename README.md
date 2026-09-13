@@ -61,8 +61,6 @@ visit the live website: https://manav610.github.io/Manav/
 [Add your demo video link here]
 *Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
 - [Shashi Prakash]: [Uplodation , presenting and editing]
