@@ -51,10 +51,9 @@ For Software:
 !<img width="1600" height="940" alt="SCREENSHOT 1 - Copy" src="https://github.com/user-attachments/assets/73ca5b2a-88cd-4668-a887-daf256c34142" />
 "First page with titles and takes the applicant details"
 
-*Add caption explaining what this shows*
+!<img width="1400" height="1106" alt="SCREENSHOT 2" src="https://github.com/user-attachments/assets/825ef6ba-c4ce-4848-aef6-a90cb772b1fb" />
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+*This will provide the certification of approval to the applicants*
 
 ![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
