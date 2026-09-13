@@ -37,8 +37,6 @@ For Software: This project is built using HTML, CSS, and JavaScript.
 # Run
 visit the live website: https://manav610.github.io/Manav/
 
-### Project Documentation
-For Software:
 
 # Screenshots (Add at least 3)
 !<img width="1600" height="940" alt="SCREENSHOT 1 - Copy" src="https://github.com/user-attachments/assets/73ca5b2a-88cd-4668-a887-daf256c34142" />
