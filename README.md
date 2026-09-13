@@ -6,19 +6,19 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Tech Titans]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
+- Team Lead: [Shashi Prakash] - [Cochin university of science and technology]
+- Member 2: [Manav Kadyan] - [Cochin university of science and technology]
 - Member 3: [Name] - [College]
 
 ### Project Description
-[2-3 lines about what your project does]
+[]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[useless ask - we have to ask from ministry before doing ]
 
 ### The Solution (that nobody asked for)
 [How are you solving it? Keep it fun!]
@@ -26,10 +26,10 @@
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- [java]
 - [Frameworks used]
 - [Libraries used]
-- [Tools used]
+- [vs code , chat gpt]
 
 For Hardware:
 - [List main components]
