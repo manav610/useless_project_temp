@@ -64,7 +64,7 @@ visit the live website: https://manav610.github.io/Manav/
 
 ## Team Contributions
 - [Shashi Prakash]: [Uplodation , presenting and editing]
-- [Manav Kadyan]: [Idea and Development, AI Assisted Coding, Website creation, PPT Preparation, Code testing, UI Designing, Quality Checking, Content Development]
+- [Manav Kadyan]: [Idea and Development, AI Assisted Coding, Website creation, PPT Preparation, Code testing, UI Designing, Quality Checking, Content Development] 
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
