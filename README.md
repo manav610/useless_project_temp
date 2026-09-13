@@ -33,7 +33,7 @@ For Software:
 ### Implementation
 For Software:
 # Installation
-[commands]
+[https://manav610.github.io/Manav./]
 
 # Run
 [commands]
