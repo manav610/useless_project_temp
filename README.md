@@ -63,7 +63,7 @@ visit the live website: https://manav610.github.io/Manav/
 
 
 ## Team Contributions
-- [Shashi Prakash]: [Uplodation , presenting and editing]
+- [Shashi Prakash]: [Uplodation , presentation , Data Managment ,Demo preparation , Code testing]
 - [Manav Kadyan]: [Idea and Development, AI Assisted Coding, Website creation, PPT Preparation, Code testing, UI Designing, Quality Checking, Content Development] 
 
 ---
