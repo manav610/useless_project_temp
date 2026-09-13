@@ -89,8 +89,8 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
+- [Shashi Prakash]: [Uplodation , presenting and editing]
+- [Manav Kadyan]: [web and prompt creation  ]
 - [Name 3]: [Specific contributions]
 
 ---
